@@ -1,4 +1,4 @@
-# CNN-Learning
+# CNN-Learning using cifar10 dataset
 
 ## About
 
@@ -6,7 +6,7 @@ This repository contains resources for learning and implementing Convolutional N
 
 ## Contents
 
-- **CNN Learning.ipynb**: Jupyter notebook with detailed explanations and implementations of CNNs.
+- **CNN Learning.ipynb**: Jupyter notebook with detailed explanations and **implementations of CNNs om the cifar10 data which contains labled images**.
 
 ## Requirements
 
